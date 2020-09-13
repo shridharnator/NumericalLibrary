@@ -3,26 +3,26 @@ class shritrig {
 
 
 public:
-	void shrisin();
+	long double shrisin();
 	
-	void shricos();
+	long double shricos();
 	
-	void shritan();
+	long double shritan();
 	
-	void shricot();
+	long double shricot();
 	
-	void shricosec();
+	long double shricosec();
 	
-	void shrisec();
+	long double shrisec();
 	
 	
-	void shriversin();
+	long double shriversin();
 	
-	void shrihaversin();
+	long double shrihaversin();
 	
-	void shrisrcsin();
+	long double shrisrcsin();
 	
-	void shriarctan();
+	long double shriarctan();
 	
 
 

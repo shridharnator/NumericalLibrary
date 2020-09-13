@@ -2,8 +2,13 @@
 class shribasicmath {
 
 public:
-	void shripower();
-	void shrifactorial();
+	long double shripower(int num,int pow);
+
+
+	long double shrifactorial(int num);
+
+
+	long double isposorneg(int i); 
 
 
 
