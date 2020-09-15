@@ -21,6 +21,9 @@
     <ClCompile Include="shribasicmath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="shritrig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shrimath.h">

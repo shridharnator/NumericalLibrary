@@ -27,6 +27,8 @@ long double shribasicmath::isposorneg(int i)
 	if (!(i % 2)) {
 		return 1;
 	}
-	else
+	else if (i % 2 == 1)
 		return -1;
+	else
+		return 1;
 }

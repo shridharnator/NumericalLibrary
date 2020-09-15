@@ -1,4 +1,5 @@
 #pragma once
+#include"shribasicmath.h"
 class shritrig {
 
 
@@ -27,6 +28,7 @@ public:
 
 
 private:
+	int input;
 
 
 

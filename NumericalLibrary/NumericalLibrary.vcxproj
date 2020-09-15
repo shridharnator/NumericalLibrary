@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="shribasicmath.cpp" />
+    <ClCompile Include="shritrig.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shribasicmath.h" />
